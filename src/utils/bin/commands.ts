@@ -31,7 +31,9 @@ export const repo = async (args: string[]): Promise<string> => {
 // About
 export const about = async (args: string[]): Promise<string> => {
   return `Hi, I am ${config.name}. 
-Welcome to my website!
+Every dev has an origin story. Mine started with broken code and sleepless nights.
+I stumbled through frontend, got obsessed with backend.
+Now I build backend systems,and I’m knee-deep in NLP and narrative AI.
 More about me:
 'sumfetch' - short summary.
 'resume' - my latest resume.
