@@ -73,7 +73,7 @@ export const echo = async (args: string[]): Promise<string> => {
 };
 
 export const whoami = async (args: string[]): Promise<string> => {
-  return `${config.ps1_username}`;
+  return `You should know that 😉`;
 };
 
 export const ls = async (args: string[]): Promise<string> => {
@@ -82,11 +82,6 @@ bunch
 of
 fake
 directories`;
-};
-
-export const cd = async (args: string[]): Promise<string> => {
-  return `unfortunately, i cannot afford more directories.
-if you want to help, you can type 'donate'.`;
 };
 
 export const date = async (args: string[]): Promise<string> => {
