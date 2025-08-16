@@ -1,39 +1,41 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Adheeb anvar",
+  "name": "Adheeb Anvar",
+  "ascii": "ANSI Shadow",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "/adheeb2",
+    "linkedin": "/adheeb-anvar/",
+    "blog": "@adheeb"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "email": "adheebanvar2@email.com",
+  "ps1_hostname": "adheeb",
+  "ps1_username": "guest",
+  "repo": "https://github.com/adheeb2/Personal_website",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "linkedin": "https://www.linkedin.com/in/adheeb-anvar/",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
     "patreon": "https://patreon.com/cveinnt"
   },
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "background": "#D0C8C6",
+      "foreground": "#3B3228",
+      "yellow": "#F4BC87",
+      "green": "#BEB55B",
+      "gray": "#A89BB9",
+      "blue": "#8AB3B5",
+      "red": "#CB6077"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "background": "#3B3228",
+      "foreground": "#D0C8C6",
+      "yellow": "#F4BC87",
+      "green": "#BEB55B",
+      "gray": "#A89BB9",
+      "blue": "#8AB3B5",
+      "red": "#CB6077"
     }
   }
 }
