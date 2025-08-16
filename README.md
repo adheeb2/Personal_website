@@ -1,8 +1,8 @@
 # 🌐 Adheeb's Personal Terminal Website
 
-A terminal-styled personal website—minimal, customizable, and powered by Next.js. This site is where I mix code, stories, and a bit of noir flavor into one digital space.
+A terminal-styled personal website—minimal, customizable, and powered by Next.js. Shoutout to Cveinnt for creating such an easy way for us to create terminal-themed personal site.
 
-I forked and customized the original LiveTerm project to make it my own. Now it runs as my **portfolio + playground + narrative hub**, all rolled into one.
+I forked and customized the original LiveTerm project to make it my own. Now it runs as my **portfolio**.
 
 ## 📸 Showcase
 
