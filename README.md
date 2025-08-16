@@ -13,7 +13,7 @@ I forked and customized the original LiveTerm project to make it my own. Now it 
 
 ## 🚀 Run Locally in Minutes
 
-This project uses **yarn** as the package manager. If you don't have it yet, grab it [here](https://yarnpkg.com/).
+This project uses **yarn** as the package manager. If you don't have it yet, grab it [here](https://classic.yarnpkg.com/lang/en/docs/install/).
 
 Clone the repo and start the dev server:
 
@@ -34,15 +34,15 @@ Example snippet:
 ```javascript
 {
   "readmeUrl": "https://github.com/yourusername/personal-website",
-  "title": "Adheeb Anvar",
-  "name": "Adheeb",
+  "title": "title of webpage",
+  "name": "your name",
   "ascii": "ascii-art-here",
   "social": {
     "github": "yourhandle",
     "linkedin": "yourhandle"
   },
   "email": "your@email.com",
-  "ps1_hostname": "adheeb.dev",
+  "ps1_hostname": "yourname",
   "ps1_username": "visitor",
   "resume_url": "./resume.pdf",
   "non_terminal_url": "https://yourdomain.com",
