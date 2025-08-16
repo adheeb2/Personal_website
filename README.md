@@ -25,6 +25,14 @@ yarn install && yarn dev
 
 Your site should now be live at `http://localhost:3000` 🎉
 
+### Docker Usage
+
+First, clone the project and edit `config.json` to your liking. Then run the following to start the container in the background:
+
+```shell
+docker-compose up -d
+```
+
 ## 📄 Configuration
 
 Most of the site is configured through `config.json`.
@@ -60,11 +68,17 @@ You can easily tweak:
 - **Resume path**
 - **Color themes**
 
+Feel free to change it as you see fit!
+
 ## 🎨 Themes & Style
 
 Predefined themes are included in `themes.json`. Swap them in `config.json` or create your own for a unique vibe.
 
 Favicons live in `public/` — I recommend generating your own via [favicon-generator](https://favicon.io/).
+
+### Banner
+
+You may also want to change the output of the `banner` command. To do that, simply paste your generated banner in `src/utils/bin/commands.ts`. I used this [website](https://manytools.org/hacker-tools/ascii-banner/) to generate my banner.
 
 ## 🌐 Deploy
 
