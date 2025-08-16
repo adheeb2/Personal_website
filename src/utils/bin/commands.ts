@@ -33,16 +33,10 @@ export const about = async (args: string[]): Promise<string> => {
   return `Hi, I am ${config.name}. 
 Every dev has an origin story. Mine started with broken code and sleepless nights.
 I stumbled through frontend, got obsessed with backend.
-Now I build backend systems,and I’m knee-deep in NLP and narrative AI.
+Now I build backend systems,and I’m knee-deep in NLP and conversational AI.
 More about me:
 'sumfetch' - short summary.
-'resume' - my latest resume.
 'readme' - my github readme.`;
-};
-
-export const resume = async (args: string[]): Promise<string> => {
-  window.open(`${config.resume_url}`);
-  return 'Opening resume...';
 };
 
 // Contact
@@ -99,7 +93,7 @@ export const emacs = async (args?: string[]): Promise<string> => {
 };
 
 export const vscode = async (args?: string[]): Promise<string> => {
-  window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank'); // ...I'm sorry
+  window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank');
   return `You just got rickrolled `;
 };
 
