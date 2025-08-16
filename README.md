@@ -6,6 +6,11 @@ I forked and customized the original LiveTerm project to make it my own. Now it 
 
 ## 📸 Showcase
 
+<p align="center">
+<img src="./demo/adheebanvar.png" width="600"><br>
+<strong>my personal website</a></strong>
+</p>
+
 ## 🚀 Run Locally in Minutes
 
 This project uses **yarn** as the package manager. If you don't have it yet, grab it [here](https://yarnpkg.com/).
